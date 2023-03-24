@@ -21,17 +21,18 @@ import (
 	"bytes"
 	"embed"
 	"fmt"
-	"github.com/pemistahl/lingua-go/serialization"
-	"github.com/shopspring/v1-decimal"
-	"golang.org/x/exp/maps"
-	"golang.org/x/exp/slices"
-	"google.golang.org/protobuf/proto"
 	"io"
 	"math"
 	"sort"
 	"strings"
 	"sync"
 	"unicode/utf8"
+
+	"github.com/Weiyuan-Lane/lingua-go/serialization"
+	decimal "github.com/shopspring/v1-decimal"
+	"golang.org/x/exp/maps"
+	"golang.org/x/exp/slices"
+	"google.golang.org/protobuf/proto"
 )
 
 //go:embed language-models

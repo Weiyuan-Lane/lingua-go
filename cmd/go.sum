@@ -1,3 +1,5 @@
+github.com/Weiyuan-Lane/lingua-go v1.3.3 h1:sGOmxUu6mG1WZ+TTmM4+eYsl44SVLp5AOc5G/+nJcWQ=
+github.com/Weiyuan-Lane/lingua-go v1.3.3/go.mod h1:ufVajx2fn5m3aZy5pVL/x/CpR+0f78VSOMQuVVVH3bo=
 github.com/abadojack/whatlanggo v1.0.1 h1:19N6YogDnf71CTHm3Mp2qhYfkRdyvbgwWdd2EPxJRG4=
 github.com/abadojack/whatlanggo v1.0.1/go.mod h1:66WiQbSbJBIlOZMsvbKe5m6pzQovxCH9B/K8tQB2uoc=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=

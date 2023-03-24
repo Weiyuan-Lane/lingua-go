@@ -1,11 +1,11 @@
-module github.com/pemistahl/lingua-go
+module github.com/Weiyuan-Lane/lingua-go
 
 go 1.18
 
 require (
-	github.com/shopspring/v1-decimal v0.0.0-00010101000000-000000000000
+	github.com/shopspring/v1-decimal v1.3.1
 	github.com/stretchr/testify v1.8.1
-	golang.org/x/exp v0.0.0-20221106115401-f9659909a136
+	golang.org/x/exp v0.0.0-20220303212507-bbda1eaf7a17
 	google.golang.org/protobuf v1.28.1
 )
 
@@ -15,4 +15,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/shopspring/v1-decimal => github.com/shopspring/decimal v1.3.1
+replace github.com/shopspring/v1-decimal v1.3.1 => github.com/shopspring/decimal v1.3.1
