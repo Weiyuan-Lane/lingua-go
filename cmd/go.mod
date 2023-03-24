@@ -9,9 +9,11 @@ require (
 )
 
 require (
-	github.com/shopspring/decimal v1.3.1 // indirect
+	github.com/shopspring/v1-decimal v0.0.0-00010101000000-000000000000 // indirect
 	golang.org/x/exp v0.0.0-20221106115401-f9659909a136 // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
 )
 
 replace github.com/pemistahl/lingua-go => ../
+
+replace github.com/shopspring/v1-decimal => github.com/shopspring/decimal v1.3.1

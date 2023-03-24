@@ -3,6 +3,7 @@ github.com/abadojack/whatlanggo v1.0.1/go.mod h1:66WiQbSbJBIlOZMsvbKe5m6pzQovxCH
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/golang/protobuf v1.5.0/go.mod h1:FsONVRAS9T7sI+LIUmWTfcYkHO4aIWwzhcaSAoJOfIk=
 github.com/google/go-cmp v0.5.5/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
+github.com/google/go-cmp v0.5.8 h1:e6P7q2lk1O+qJJb4BtCQXlK8vWEO8V1ZeuEdJNOqZyg=
 github.com/jmhodges/gocld3 v0.0.0-20211031064447-cc40e88f7505 h1:t0brQCrhSbDvvSfiz8MXOCv7QGnPF6Ne5JHuih2//s4=
 github.com/jmhodges/gocld3 v0.0.0-20211031064447-cc40e88f7505/go.mod h1:iXPcR1NTGhFX/JBpurxM+ac4EI7rMq6qRHZQ2pLIRjQ=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
